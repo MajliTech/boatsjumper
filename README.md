@@ -15,7 +15,7 @@ Here are known limitations of the plugin:
 ---
 
 ## 📸 Screenshots
-![Example usage](https://github.com/MajliTech/boatsjumper/blob/master/repoassets/example.gif?raw=true)
+![Example usage](https://github.com/MajliTech/boatsjumper/blob/main/repoassets/example.gif?raw=true)
 
 ---
 
