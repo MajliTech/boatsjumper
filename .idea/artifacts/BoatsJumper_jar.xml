@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BoatsJumper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BoatsJumper_jar</output-path>
+    <root id="archive" name="BoatsJumper.jar">
+      <element id="module-output" name="BoatsJumper" />
+    </root>
+  </artifact>
+</component>

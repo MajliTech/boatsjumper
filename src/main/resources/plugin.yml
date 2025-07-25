@@ -1,0 +1,4 @@
+name: BoatsJumper
+version: '${project.version}'
+main: pl.majlitech.boatsjumper.Main
+api-version: '1.13'

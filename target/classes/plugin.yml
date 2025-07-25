@@ -1,0 +1,4 @@
+name: BoatsJumper
+version: '1.0'
+main: pl.majlitech.boatsjumper.Main
+api-version: '1.13'
